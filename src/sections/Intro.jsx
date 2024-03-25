@@ -20,7 +20,7 @@ const Intro = () => {
 
 
           <p className=" text-2xl py-6 px-4">
-          MyroWif Meme Coin isn't your average meme – oh no! It's a whirlwind adventure through the jungle of digital finance, where every twist and turn brings a new burst of excitement and hilarity. Its mission is to be the most entertaining, engaging, and downright meme-tastic coin on the Solana blockchain!
+          Think of MyroWIF as the tail-wagging heart of the Solana blockchain. We're not just another coin; we're a movement fueled by the love for our four-legged friend and the passion for making Solana even more pawsome. 🐶
           </p>
 
           <a

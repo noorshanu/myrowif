@@ -8,12 +8,10 @@ function Hero() {
 
       
           <h1 className=" text-5xl font-bold  py-4 text-white">
-          Welcome to  MyroWif
+          Woof! Welcome to MyroWIF, where the crypto barks.
             </h1>
             <h1 className=" max-w-xl text-white text-2xl font-sushi-two font-semibold">
-            the wacky and wonderful world of Spider Monkey Meme Coin – where laughter, memes, and crypto collide in a frenzy of fun! 
-
-Spider Monkey Meme Coin isn't your average meme – oh no! It's a whirlwind adventure through the jungle of digital finance, where every twist and turn brings a new burst of excitement and hilarity
+            Ever wondered what happens when you mix the brilliance of Solana with the cuteness of a furry friend? You get MyroWIF! Named after none other than Raj Gokal's beloved doggo, MyroWIF is more than just a meme coin—it's a celebration of the Solana community and our fluffy inspiration.
             </h1>
 
             <div className=" py-2">
