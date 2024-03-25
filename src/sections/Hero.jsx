@@ -1,3 +1,5 @@
+import { FaTwitter, FaTelegram } from "react-icons/fa";
+
 function Hero() {
   return (
     <section className=" pt-4  pb-[4rem]">
@@ -28,17 +30,26 @@ function Hero() {
           <a
             href="https://t.me/myrowiff"
             target="_blank"
-            className="text-base py-2 uppercase font-sushi-two font-semibold px-10 rounded-xl bg-[#1995d0] shadow-lg shadow-black/40 text-white   border-[#f45a7c] border-2"
+            className="text-base flex gap-2 items-center py-2 uppercase font-sushi-two font-semibold px-10 rounded-xl bg-[#1995d0] shadow-lg shadow-black/40 text-white   border-[#f45a7c] border-2"
           >
-            join telegram
+           <FaTelegram fill="#ffff" /> telegram
           </a>
 
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/4YDdnThR62DgPrD22iWQSWLyrvZoou2Q4e64F56upovE?t=1711352110529"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/4YDdnThR62DgPrD22iWQSWLyrvZoou2Q4e64F56upovE"
             target="_blank"
-            className="text-base py-2 uppercase font-sushi-two px-10 rounded-xl bg-[#1995d0] shadow-lg shadow-black/40 text-white  font-bold  border-[#f45a7c] border-2"
+            
+            className="text-base  py-2 uppercase font-sushi-two px-10 rounded-xl bg-[#1995d0] shadow-lg shadow-black/40 text-white  font-bold  border-[#f45a7c] border-2"
           >
             DEXTOOLS
+          </a>
+
+          <a
+            href="https://x.com/myrowif_"
+            target="_blank"
+            className="text-base flex gap-2 items-center py-2 uppercase font-sushi-two px-10 rounded-xl bg-[#1995d0] shadow-lg shadow-black/40 text-white  font-bold  border-[#f45a7c] border-2"
+          >
+          <FaTwitter fill="#fff" />  Twitter
           </a>
         </div>
           </div>
@@ -50,7 +61,6 @@ function Hero() {
           </div>
         </div>
 
-        <div className="relative z-50"></div>
 
      
 
